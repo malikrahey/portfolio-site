@@ -1,0 +1,29 @@
+.portfolio-header {
+
+	padding: 1rem;
+	height: 400px;
+	justify-items: center;
+	box-shadow: 2px black;
+	text-align: center;
+	display: block;
+
+}
+
+.portfolio-header-title {
+
+	font-size: 72px;
+
+}
+
+.portfolio-header-image {
+	
+	height: 72px;
+	width: 72px;
+	text-align: center;
+}
+
+
+.portfolio-header-description {
+	font-size: 18px;
+
+}

@@ -1,0 +1,48 @@
+.experience {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    grid-gap: 50px;
+    border: 1px outset black;
+    padding: 1rem;
+    box-shadow: 0 0 0 2px gray;
+    transition-duration: 1s;
+}
+
+.experience:hover + .experience-job-description {
+    grid-template-columns: auto auto 5rem;
+    display: block;
+}
+
+.experience:hover + .experience-company-name {
+    font-size: 144px;
+}
+
+.experience-image {
+    height: 75px;
+    width: 150px;
+    grid-column: 1 /2;
+}
+
+.experience-text {
+    grid-column: 2/2;
+}
+
+.experience-company-name {
+    font-size: larger;
+    text-align: center;
+    grid-row: 1;
+    border-bottom: 2px solid black;
+}
+
+.experience-job-description {
+    font-size: medium;
+    text-align: center;
+    grid-row: 2;
+    display: none;
+}
+
+.experience-job-description :hover {
+    display: inline;
+
+}
