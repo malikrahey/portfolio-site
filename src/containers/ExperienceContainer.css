@@ -3,3 +3,7 @@
     grid-template-rows: 50px, auto;
     grid-template-columns: auto, auto;
 }
+
+.experience-container-item {
+    margin: 2rem;
+}

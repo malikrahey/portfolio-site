@@ -6,12 +6,18 @@
     border: 1px outset black;
     padding: 1rem;
     box-shadow: 0 0 0 2px gray;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
+}
+
+.experience:hover {
+    cursor: pointer;
+    box-shadow: 0 0 0 5px gray;
 }
 
 .experience:hover + .experience-job-description {
     grid-template-columns: auto auto 5rem;
     display: block;
+    cursor: pointer;
 }
 
 .experience:hover + .experience-company-name {
@@ -39,10 +45,8 @@
     font-size: medium;
     text-align: center;
     grid-row: 2;
-    display: none;
 }
 
-.experience-job-description :hover {
-    display: inline;
-
+.experience-job-date-range {
+    padding-left: 1rem;
 }

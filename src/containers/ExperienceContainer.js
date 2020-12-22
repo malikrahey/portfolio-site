@@ -1,19 +1,31 @@
 import React from 'react';
 import './ExperienceContainer.css';
 import Experience from "../components/Experience.js";
-import nokiaLogo from "../images/nokia-logo.jpg";
+import {jobsData} from "../data/jobsData";
 
 function ExperienceContainer() {
+
+    let experiences = [];
+
+    jobsData.forEach(job => {
+       
+        experiences.push(
+            <div className="experience-container-item">
+                <Experience
+                experienceImage={job.experienceImage}
+                companyName={job.companyName}
+                jobTitle={job.jobTitle}
+                dateRange={job.dateRange}
+                jobDescription={job.jobDescription}
+                />
+            </div>
+        )
+    });
+
     return (
         <>
         <div className = "experience-container"> 
-        <Experience
-         experienceImage={nokiaLogo}
-          companyName="NOKIA" 
-          jobTitle="nokia:)"
-          dateRange=""
-          jobDescription="this is what I do"
-          />
+        {experiences}
 	    </div>
         </>
     );
