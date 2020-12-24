@@ -3,6 +3,10 @@
     grid-template-rows: 50px, auto;
     grid-template-columns: auto, auto;
 }
+.experience-container-title {
+    font-size: 48px;
+    border-bottom:  beige;
+}
 
 .experience-container-item {
     margin: 2rem;

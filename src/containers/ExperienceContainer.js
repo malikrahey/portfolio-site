@@ -24,9 +24,13 @@ function ExperienceContainer() {
 
     return (
         <>
+        <div className="experience-container-title">
+            Experience
+        </div>
         <div className = "experience-container"> 
         {experiences}
 	    </div>
+        
         </>
     );
 }

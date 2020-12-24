@@ -16,7 +16,7 @@ export const jobsData = [
 {
 	experienceImage: "nokiaLogo",
 	companyName: "Protocase" ,
-	jobTitle: "nokia:)",
+	jobTitle: "R&D Project Lead",
 	dateRange: "2020-2020",
 	jobDescription: "this is what I do",
 }]

@@ -11,6 +11,7 @@
     "react-image": "^4.0.3",
     "react-reveal": "^1.2.2",
     "react-scripts": "^3.4.3",
+    "react-star-ratings": "^2.3.0",
     "react-transition-group": "^4.4.1"
   },
   "scripts": {
