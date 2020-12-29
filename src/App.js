@@ -11,8 +11,8 @@ function App() {
       <ol className="content">
       <div className="header"><PortfolioHeader/></div>
       <ExperienceContainer/>
-      <SkillsContainer/>
       <ProjectsContainer/>
+      <SkillsContainer/>
       </ol>
     </div>
   );
