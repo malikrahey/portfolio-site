@@ -1,22 +1,22 @@
 export const jobsData = [
 {
-	experienceImage: "data/images/nokia-logo.jpg",
+	experienceImage: "nokia",
 	companyName: "NOKIA" ,
 	jobTitle: "Software Developer Coop",
 	dateRange: "2020-2020",
-	jobDescription: "this is what I do",
+	jobDescription: ["this is what I do","asasasasasas"],
 },
 {
-	experienceImage: "nokiaLogo",
+	experienceImage: "totaliq",
 	companyName: "totaliQ" ,
 	jobTitle: "Fullstack Developer",
 	dateRange: "2020-2020",
-	jobDescription: "this is what I do",
+	jobDescription: ["this is what I do"],
 },
 {
-	experienceImage: "nokiaLogo",
+	experienceImage: "protocase",
 	companyName: "Protocase" ,
 	jobTitle: "R&D Project Lead",
 	dateRange: "2020-2020",
-	jobDescription: "this is what I do",
+	jobDescription: ["I did this","and this","this too"],
 }]

@@ -1,10 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ExperienceContainer from './containers/ExperienceContainer';
 import PortfolioHeader from './components/PortfolioHeader';
 import SkillsContainer from './containers/SkillsContainer';
-
+import ProjectsContainer from './containers/ProjectsContainer';
 
 function App() {
   return (
@@ -13,6 +12,7 @@ function App() {
       <div className="header"><PortfolioHeader/></div>
       <ExperienceContainer/>
       <SkillsContainer/>
+      <ProjectsContainer/>
       </ol>
     </div>
   );

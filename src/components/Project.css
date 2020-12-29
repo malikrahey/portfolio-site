@@ -1,0 +1,29 @@
+.project {
+   display: grid;
+    box-shadow: 0 0 0 2px gray;
+    text-align: center;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-gap: 50px;
+    border: 1px outset black;
+    padding: 1rem;
+    width: 500px;
+    transition-duration: 0.5s;
+}
+
+.project-icon {
+    width: 128px;
+    height: 128px;
+}
+
+
+.project:hover {
+    cursor: pointer;
+    box-shadow: 0 0 0 5px gray;
+    background-color: #3d4350;
+}
+
+.project-title {
+    font-size: 28px;
+    font-style: oblique;
+}

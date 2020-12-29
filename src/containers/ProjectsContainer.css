@@ -1,0 +1,13 @@
+.projects-container-title {
+    font-size: 48px;
+}
+
+.projects-container {
+    justify-content: center;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.projects-container-item {
+    padding: 2rem;
+}
