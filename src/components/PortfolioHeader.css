@@ -1,6 +1,6 @@
 .portfolio-header {
 	padding: 1rem;
-	height: 400px;
+	height: auto;
 	justify-items: center;
 	box-shadow: 2px black;
 	align-items: center;
@@ -8,8 +8,8 @@
 }
 
 .portfolio-header-title {
-	margin-top: 128px;
-	font-size: 72px;
+	margin-top: 328px;
+	font-size: 96px;
 }
 
 .portfolio-header-image {
@@ -20,6 +20,18 @@
 
 
 .portfolio-header-description {
-	font-size: 18px;
+	margin-top: 100px;
+	font-size: 28px;
 
+}
+
+.portfolio-header-links {
+	margin-top: 125px;
+	margin-bottom: 75px;
+}
+
+.portfolio-header-img {
+	border-radius: 50%;
+    width: 48px;
+    height: 48px;
 }
