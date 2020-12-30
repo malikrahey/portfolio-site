@@ -23,12 +23,10 @@ export default function ProjectsContainer() {
 
     return(
         <Fade>
-        <div>
             <div className="projects-container-title">Projects</div>
             <div className="projects-container">
             {projects}
             </div>
-        </div>
         </Fade>
     );
 

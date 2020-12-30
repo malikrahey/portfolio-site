@@ -1,3 +1,8 @@
 .skill-container-title {
     font-size: 48px;
 }
+
+.skill-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}

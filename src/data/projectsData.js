@@ -2,7 +2,7 @@ export const projectsData = [
     {
         icon: "python",
         title: "CSBookie",
-        description: "asdasdasd"
+        description: "Automated webscraper"
     },
     {
         icon: "react",
