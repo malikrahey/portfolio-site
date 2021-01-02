@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-site/static/css/main.4d8776a2.chunk.css",
-    "main.js": "/portfolio-site/static/js/main.e7ffe45b.chunk.js",
-    "main.js.map": "/portfolio-site/static/js/main.e7ffe45b.chunk.js.map",
+    "main.css": "/portfolio-site/static/css/main.b245943d.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.1ee35a24.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.1ee35a24.chunk.js.map",
     "runtime-main.js": "/portfolio-site/static/js/runtime-main.2d95e7a6.js",
     "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.2d95e7a6.js.map",
-    "static/js/2.0924bf36.chunk.js": "/portfolio-site/static/js/2.0924bf36.chunk.js",
-    "static/js/2.0924bf36.chunk.js.map": "/portfolio-site/static/js/2.0924bf36.chunk.js.map",
+    "static/js/2.f6e51447.chunk.js": "/portfolio-site/static/js/2.f6e51447.chunk.js",
+    "static/js/2.f6e51447.chunk.js.map": "/portfolio-site/static/js/2.f6e51447.chunk.js.map",
     "index.html": "/portfolio-site/index.html",
-    "precache-manifest.f306f912bd91b5cb17d6a1c005ef240b.js": "/portfolio-site/precache-manifest.f306f912bd91b5cb17d6a1c005ef240b.js",
+    "precache-manifest.273d456d513191649126a5c9da2d5738.js": "/portfolio-site/precache-manifest.273d456d513191649126a5c9da2d5738.js",
     "service-worker.js": "/portfolio-site/service-worker.js",
-    "static/css/main.4d8776a2.chunk.css.map": "/portfolio-site/static/css/main.4d8776a2.chunk.css.map",
-    "static/js/2.0924bf36.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.0924bf36.chunk.js.LICENSE.txt",
+    "static/css/main.b245943d.chunk.css.map": "/portfolio-site/static/css/main.b245943d.chunk.css.map",
+    "static/js/2.f6e51447.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.f6e51447.chunk.js.LICENSE.txt",
     "static/media/cs-logo.png": "/portfolio-site/static/media/cs-logo.e7b8fcd4.png",
     "static/media/linkedin-icon.png": "/portfolio-site/static/media/linkedin-icon.7fb99744.png",
     "static/media/nokia-logo.png": "/portfolio-site/static/media/nokia-logo.b3750358.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2d95e7a6.js",
-    "static/js/2.0924bf36.chunk.js",
-    "static/css/main.4d8776a2.chunk.css",
-    "static/js/main.e7ffe45b.chunk.js"
+    "static/js/2.f6e51447.chunk.js",
+    "static/css/main.b245943d.chunk.css",
+    "static/js/main.1ee35a24.chunk.js"
   ]
 }
