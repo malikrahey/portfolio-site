@@ -19,8 +19,9 @@ export default class FadingAlternatingText extends React.Component {
         let currentIndex = this.state.index;
 		if(currentIndex >= this.props.textArray.length -1) {
 			currentIndex = -1;
-		}
-        this.setState({index: currentIndex+1, currentText: this.props.textArray[this.state.index]});
+        }
+        let nextIndex = currentIndex +1;
+        this.setState({index: nextIndex, currentText: this.props.textArray[nextIndex]});
     }
 
     changeText() {
