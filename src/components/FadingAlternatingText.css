@@ -1,0 +1,9 @@
+.alternating-text {
+    opacity: 1;
+    transition: opacity 0.5s;
+    font-size: 28px;
+}
+
+.hide {
+    opacity: 0 !important;
+}

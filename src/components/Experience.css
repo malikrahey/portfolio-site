@@ -46,11 +46,12 @@
 }
 
 .experience-job-description {
-    justify-content: center;
+    margin-top: 1rem;
+    justify-content: left;
     font-size: medium;
     text-align:center;
     grid-row: 2;
-    width: 10rem
+    width: 600px;
 }
 
 .experience-job-date-range {

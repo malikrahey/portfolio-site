@@ -5,50 +5,24 @@ import { Fade } from 'react-reveal';
 import RoundedIcon from './RoundedIcon';
 import linkedinIcon from "../data/images/linkedin-icon.png";
 import githubIcon from '../data/images/github-icon.png';
+import FadingAlternatingText from './FadingAlternatingText';
 
 
 const  SUBTITLE_TEXTS = ["Fullstack developer", "Student", "Automation", "Machine Learning"];
 
 
-export default class PortfolioHeader extends React.Component {	
+export default function PortfolioHeader() {	
 
-	constructor() {
-		super();
-		this.state = {index: 0}
-
-		this.subtitles = [];
-		SUBTITLE_TEXTS.forEach(subtitle => {
-			let descriptionClassName = "portfolio-header-description " + subtitle;
-			this.subtitles.push(<Fade><div className={descriptionClassName}>{subtitle}</div></Fade>)
-		});
-
-	}
-
-	changeArrayIndex() {
-		let currentIndex = this.state.index;
-		if(currentIndex >= SUBTITLE_TEXTS.length -1) {
-			currentIndex = -1;
-		}
-		this.setState({index: currentIndex+1});
-	}
-
-	componentDidMount() {
-		this.interval = setInterval(() => {
-			this.changeArrayIndex();
-		}, 1500);
-	}
-
-	componentWillUnmount() {
-		clearInterval(this.interval);
-	}
-
-	render()
-	{
 
 		return (
 			<div className="portfolio-header">
 				<div className = "portfolio-header-title"> Malik Rahey </div>
-				{this.subtitles[this.state.index]}
+				<div className="portfolio-header-description">
+					<FadingAlternatingText
+					textArray={SUBTITLE_TEXTS}
+					interval={1500}
+					/>
+				</div>
 				<div className="portfolio-header-links">
 					<RoundedIcon
 					className="portfolio-header-img"
@@ -64,7 +38,6 @@ export default class PortfolioHeader extends React.Component {
 				</div>
 			</div>
 		);
-	}
 
 }
 
