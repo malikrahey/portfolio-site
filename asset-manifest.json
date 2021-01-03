@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio-site/static/css/main.b245943d.chunk.css",
-    "main.js": "/portfolio-site/static/js/main.09852987.chunk.js",
-    "main.js.map": "/portfolio-site/static/js/main.09852987.chunk.js.map",
-    "runtime-main.js": "/portfolio-site/static/js/runtime-main.2d95e7a6.js",
-    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.2d95e7a6.js.map",
-    "static/js/2.f6e51447.chunk.js": "/portfolio-site/static/js/2.f6e51447.chunk.js",
-    "static/js/2.f6e51447.chunk.js.map": "/portfolio-site/static/js/2.f6e51447.chunk.js.map",
-    "index.html": "/portfolio-site/index.html",
-    "precache-manifest.17b801963e83ae32c3043efd55975f6f.js": "/portfolio-site/precache-manifest.17b801963e83ae32c3043efd55975f6f.js",
-    "service-worker.js": "/portfolio-site/service-worker.js",
-    "static/css/main.b245943d.chunk.css.map": "/portfolio-site/static/css/main.b245943d.chunk.css.map",
-    "static/js/2.f6e51447.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.f6e51447.chunk.js.LICENSE.txt",
-    "static/media/cs-logo.png": "/portfolio-site/static/media/cs-logo.e7b8fcd4.png",
-    "static/media/linkedin-icon.png": "/portfolio-site/static/media/linkedin-icon.7fb99744.png",
-    "static/media/nokia-logo.png": "/portfolio-site/static/media/nokia-logo.b3750358.png",
-    "static/media/python-logo.png": "/portfolio-site/static/media/python-logo.fd698436.png",
-    "static/media/react-logo.svg": "/portfolio-site/static/media/react-logo.ee7cd8ed.svg"
+    "main.css": "/malikrahey.dev/static/css/main.efb6ed2c.chunk.css",
+    "main.js": "/malikrahey.dev/static/js/main.7330403a.chunk.js",
+    "main.js.map": "/malikrahey.dev/static/js/main.7330403a.chunk.js.map",
+    "runtime-main.js": "/malikrahey.dev/static/js/runtime-main.f5c75f61.js",
+    "runtime-main.js.map": "/malikrahey.dev/static/js/runtime-main.f5c75f61.js.map",
+    "static/js/2.f6e51447.chunk.js": "/malikrahey.dev/static/js/2.f6e51447.chunk.js",
+    "static/js/2.f6e51447.chunk.js.map": "/malikrahey.dev/static/js/2.f6e51447.chunk.js.map",
+    "index.html": "/malikrahey.dev/index.html",
+    "precache-manifest.d8a22003d94381f81a4d384417bff814.js": "/malikrahey.dev/precache-manifest.d8a22003d94381f81a4d384417bff814.js",
+    "service-worker.js": "/malikrahey.dev/service-worker.js",
+    "static/css/main.efb6ed2c.chunk.css.map": "/malikrahey.dev/static/css/main.efb6ed2c.chunk.css.map",
+    "static/js/2.f6e51447.chunk.js.LICENSE.txt": "/malikrahey.dev/static/js/2.f6e51447.chunk.js.LICENSE.txt",
+    "static/media/cs-logo.png": "/malikrahey.dev/static/media/cs-logo.e7b8fcd4.png",
+    "static/media/linkedin-icon.png": "/malikrahey.dev/static/media/linkedin-icon.7fb99744.png",
+    "static/media/nokia-logo.png": "/malikrahey.dev/static/media/nokia-logo.b3750358.png",
+    "static/media/python-logo.png": "/malikrahey.dev/static/media/python-logo.fd698436.png",
+    "static/media/react-logo.svg": "/malikrahey.dev/static/media/react-logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d95e7a6.js",
+    "static/js/runtime-main.f5c75f61.js",
     "static/js/2.f6e51447.chunk.js",
-    "static/css/main.b245943d.chunk.css",
-    "static/js/main.09852987.chunk.js"
+    "static/css/main.efb6ed2c.chunk.css",
+    "static/js/main.7330403a.chunk.js"
   ]
 }
