@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.efb6ed2c.chunk.css",
-    "main.js": "/static/js/main.d0f2e47d.chunk.js",
-    "main.js.map": "/static/js/main.d0f2e47d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fdaf22cd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fdaf22cd.js.map",
-    "static/js/2.f6e51447.chunk.js": "/static/js/2.f6e51447.chunk.js",
-    "static/js/2.f6e51447.chunk.js.map": "/static/js/2.f6e51447.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b7a0b278ed6a018b12eb83aef74e0fe0.js": "/precache-manifest.b7a0b278ed6a018b12eb83aef74e0fe0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.efb6ed2c.chunk.css.map": "/static/css/main.efb6ed2c.chunk.css.map",
-    "static/js/2.f6e51447.chunk.js.LICENSE.txt": "/static/js/2.f6e51447.chunk.js.LICENSE.txt",
-    "static/media/cs-logo.png": "/static/media/cs-logo.e7b8fcd4.png",
-    "static/media/linkedin-icon.png": "/static/media/linkedin-icon.7fb99744.png",
-    "static/media/nokia-logo.png": "/static/media/nokia-logo.b3750358.png",
-    "static/media/python-logo.png": "/static/media/python-logo.fd698436.png",
-    "static/media/react-logo.svg": "/static/media/react-logo.ee7cd8ed.svg"
+    "main.css": "/portfolio-site/static/css/main.efb6ed2c.chunk.css",
+    "main.js": "/portfolio-site/static/js/main.09852987.chunk.js",
+    "main.js.map": "/portfolio-site/static/js/main.09852987.chunk.js.map",
+    "runtime-main.js": "/portfolio-site/static/js/runtime-main.2d95e7a6.js",
+    "runtime-main.js.map": "/portfolio-site/static/js/runtime-main.2d95e7a6.js.map",
+    "static/js/2.f6e51447.chunk.js": "/portfolio-site/static/js/2.f6e51447.chunk.js",
+    "static/js/2.f6e51447.chunk.js.map": "/portfolio-site/static/js/2.f6e51447.chunk.js.map",
+    "index.html": "/portfolio-site/index.html",
+    "precache-manifest.6c05181138cbab64f7c167dce7119afd.js": "/portfolio-site/precache-manifest.6c05181138cbab64f7c167dce7119afd.js",
+    "service-worker.js": "/portfolio-site/service-worker.js",
+    "static/css/main.efb6ed2c.chunk.css.map": "/portfolio-site/static/css/main.efb6ed2c.chunk.css.map",
+    "static/js/2.f6e51447.chunk.js.LICENSE.txt": "/portfolio-site/static/js/2.f6e51447.chunk.js.LICENSE.txt",
+    "static/media/cs-logo.png": "/portfolio-site/static/media/cs-logo.e7b8fcd4.png",
+    "static/media/linkedin-icon.png": "/portfolio-site/static/media/linkedin-icon.7fb99744.png",
+    "static/media/nokia-logo.png": "/portfolio-site/static/media/nokia-logo.b3750358.png",
+    "static/media/python-logo.png": "/portfolio-site/static/media/python-logo.fd698436.png",
+    "static/media/react-logo.svg": "/portfolio-site/static/media/react-logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdaf22cd.js",
+    "static/js/runtime-main.2d95e7a6.js",
     "static/js/2.f6e51447.chunk.js",
     "static/css/main.efb6ed2c.chunk.css",
-    "static/js/main.d0f2e47d.chunk.js"
+    "static/js/main.09852987.chunk.js"
   ]
 }
