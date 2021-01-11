@@ -2,8 +2,6 @@
   text-align: center;
   height: 100%;
   width: 100%;
-  display: inline-grid;
-  grid-template-columns: 15% 70% 15%;
   background-color: #282c34;
   color: aliceblue;
   
@@ -11,8 +9,8 @@
 
 .content {
   justify-items: center;
-  width: 100%;
-  grid-column: 2;
+  margin-left: 5rem;
+  margin-right: 5rem;
 }
 .App-logo {
   height: 40vmin;

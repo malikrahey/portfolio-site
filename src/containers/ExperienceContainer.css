@@ -1,7 +1,6 @@
 .experience-container {
     display: grid;
-    grid-template-rows: 50px, auto;
-    grid-template-columns: auto, auto;
+    grid-template-columns: auto;
 }
 .experience-container-title {
     font-size: 48px;
@@ -9,5 +8,5 @@
 }
 
 .experience-container-item {
-    margin: 2rem;
+    margin-top: 2rem;
 }

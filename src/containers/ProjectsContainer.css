@@ -11,3 +11,9 @@
 .projects-container-item {
     padding: 2rem;
 }
+
+@media screen and (max-width: 600px) {
+    .projects-container {
+        grid-template-columns: auto;
+    }
+}

@@ -16,12 +16,6 @@
     background-color: #3d4350;
 }
 
-.experience:hover + .experience-job-description {
-    grid-template-columns: auto auto 5rem;
-    display: block;
-    cursor: pointer;
-}
-
 
 .experience-image {
     height: 50px;
@@ -51,9 +45,25 @@
     font-size: medium;
     text-align:center;
     grid-row: 2;
-    width: 600px;
 }
 
 .experience-job-date-range {
     padding-left: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+
+    .experience {
+        width: 100%;
+        height: auto;
+    }
+
+    .experience-image {
+        width: 120px;
+    }
+
+    .experience-job-date-range {
+        display: none;
+    }
+
 }
