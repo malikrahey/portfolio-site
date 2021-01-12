@@ -3,6 +3,14 @@
 }
 
 .skill-container {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto auto auto;
+}
+
+@media screen and (max-width: 600px) {
+    .skill-container {
+        grid-template-columns: auto;
+    }
 }
