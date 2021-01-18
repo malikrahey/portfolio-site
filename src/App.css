@@ -7,6 +7,12 @@
   
 }
 
+@media screen and(max-width: 600px) {
+  .App {
+    width: 600px;
+  }
+}
+
 .content {
   justify-items: center;
   margin-left: 5rem;

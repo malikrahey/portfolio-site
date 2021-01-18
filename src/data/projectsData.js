@@ -11,12 +11,12 @@ export const projectsData = [
     },
     {
         icon: "cs",
-        title: "Self driving cars",
+        title: "Self driving cars - Unity",
         description: "Deep learning, self driving cars trained through multiple learning methods such as simulated evolution."
     },
     {
         icon: "cs",
-        title: "Games",
+        title: "Games - Unity",
         description: "Multiple Android apps created in Unity and published on the Google play store"
     }
 ]

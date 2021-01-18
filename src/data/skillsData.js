@@ -1,11 +1,7 @@
 export const skillsData = [
     {
-        name: "C++",
-        rating: 3.5
-    },
-    {
         name: "Java",
-        rating: 3
+        rating: 4
     },
     {
         name: "C#",
@@ -17,11 +13,15 @@ export const skillsData = [
     },
     {
         name: "Javascript",
-        rating: 3
+        rating: 2.8
     },
     {
         name: "Reactjs",
-        rating: 3
+        rating: 2.8
+    },
+    {
+        name: "C++",
+        rating: 2.5
     },
     {
         name: "Unity",
@@ -29,6 +29,6 @@ export const skillsData = [
     },
     {
         name: "Selenium",
-        rating: 2
+        rating: 1.5
     }
 ]
